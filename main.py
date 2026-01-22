@@ -140,10 +140,10 @@ class HeartDiseasePredictor:
                     results.append(result)
                     
                     if (idx + 1) % 10 == 0:
-                        print(f"✅ Processed {idx + 1} patients...")
+                        print(f"Processed {idx + 1} patients...")
                         
                 except Exception as e:
-                    print(f"⚠️ Error processing patient {idx}: {e}")
+                    print(f"Error processing patient {idx}: {e}")
                     continue
             
             # Create results DataFrame
@@ -153,9 +153,9 @@ class HeartDiseasePredictor:
             output_file = f'predictions_{datetime.now().strftime("%Y%m%d_%H%M%S")}.csv'
             results_df.to_csv(output_file, index=False)
             
-            print(f"\n📊 Batch prediction completed!")
-            print(f"📁 Results saved to: {output_file}")
-            print(f"📈 Statistics:")
+            print(f"\nBatch prediction completed!")
+            print(f"Results saved to: {output_file}")
+            print(f"Statistics:")
             print(f"   Total patients: {len(results_df)}")
             print(f"   High risk: {len(results_df[results_df['risk_score'] > 70])}")
             print(f"   Disease predicted: {results_df['prediction'].sum()}")
@@ -163,7 +163,7 @@ class HeartDiseasePredictor:
             return results_df
             
         except Exception as e:
-            print(f"❌ Error in batch prediction: {e}")
+            print(f"Error in batch prediction: {e}")
             return None
     
     def _get_risk_category(self, risk_score):
@@ -178,7 +178,7 @@ class HeartDiseasePredictor:
                 }
         return {
             'category': 'unknown',
-            'label': "⚪ Unknown",
+            'label': "Unknown",
             'advice': "Consult healthcare provider",
             'range': "N/A"
         }
@@ -277,7 +277,7 @@ class HeartDiseasePredictor:
 
 if __name__ == "__main__":
     print("=" * 60)
-    print("❤️  HEART DISEASE PREDICTION ENGINE")
+    print("HEART DISEASE PREDICTION ENGINE")
     print("=" * 60)
     
     try:
@@ -285,7 +285,7 @@ if __name__ == "__main__":
         predictor = HeartDiseasePredictor()
         
         # Example single prediction
-        print("\n🔍 Example Single Prediction:")
+        print("\nExample Single Prediction:")
         print("-" * 40)
         
         example_patient = {
@@ -314,27 +314,21 @@ if __name__ == "__main__":
         print(f"Risk Category: {result['risk_category']['label']}")
         print(f"Model Confidence: {result['confidence']:.1f}%")
         
-        print("\n📋 Top Risk Factors:")
+        print("\nTop Risk Factors:")
         for feature, importance in result['feature_importance'].items():
             print(f"  {feature}: {importance:.2f}")
         
-        print("\n💡 Recommendation:")
+        print("\nRecommendation:")
         print(f"  {result['risk_category']['advice']}")
         
-        # Example batch prediction (uncomment to use)
-        # print("\n📁 Batch Prediction Example:")
-        # print("-" * 40)
-        # batch_results = predictor.predict_batch('heart.csv')
-        
-        print("\n" + "=" * 60)
-        print("✅ Prediction engine ready!")
+        print("\nPrediction engine ready!")
         print("Use predict_single() for individual patients")
         print("Use predict_batch() for CSV files")
         print("=" * 60)
         
     except Exception as e:
-        print(f"❌ Error: {e}")
-        print("\nPlease ensure:")
+        print("Error:", e)
+        print("Please ensure:")
         print("1. You have run train.py to train the model")
         print("2. heart.csv is in the same directory")
         print("3. Required packages are installed")

@@ -1,0 +1,34 @@
+{
+  "research_papers": {
+    "risk_factors": {
+      "depression and lung decline in chronic obstructive pulmonary disease": 1,
+      "heart rate variability": 1,
+      "cellular senescence and demethylation in acute myocardial infarction": 1,
+      "identification and validation of biomarkers": 1
+    },
+    "biomarkers": {
+      "protein markers of cardiometabolic risk in children and adolescents with obesity": 1,
+      "panel discovery and assessment": 1,
+      "predicts long": 1,
+      "metabolomics disentangles t2dm": 1
+    },
+    "prediction_methods": {},
+    "performance_metrics": {},
+    "feature_importance": {},
+    "trends": {}
+  },
+  "clinical_trials": {
+    "interventions": {},
+    "outcomes": {},
+    "eligibility_criteria": {},
+    "phase_distribution": {},
+    "success_rates": {}
+  },
+  "medical_statistics": {
+    "prevalence_rates": {},
+    "mortality_rates": {},
+    "risk_statistics": {},
+    "demographic_data": {},
+    "trends": {}
+  }
+}

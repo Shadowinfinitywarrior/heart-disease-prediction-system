@@ -17,6 +17,7 @@ from sklearn.metrics import (accuracy_score, precision_score,
                            confusion_matrix)
 import joblib
 import warnings
+import sys
 warnings.filterwarnings('ignore')
 
 # =============================
@@ -252,13 +253,13 @@ class ModelTrainer:
         self.model = None
         self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     
-    def train(self, epochs=250, batch_size=16, lr=0.0015):
+    def train(self, epochs=250, batch_size=16, lr=0.0015, data_file='heart.csv'):
         """Train model with enhanced techniques"""
         
-        print("🔄 Loading and preprocessing data...")
-        X, y, df = self.processor.prepare_data()
+        print("Loading and preprocessing data...")
+        X, y, df = self.processor.prepare_data(data_file)
         
-        print(f"📊 Dataset: {len(X)} samples, {X.shape[1]} features")
+        print(f"Dataset: {len(X)} samples, {X.shape[1]} features")
         
         # Split with stratification
         X_train, X_test, y_train, y_test = train_test_split(
@@ -279,7 +280,7 @@ class ModelTrainer:
         self.model = AdvancedHeartDiseaseANN(input_dim=X_train.shape[1])
         self.model.to(self.device)
         
-        print(f"🧠 Model parameters: {sum(p.numel() for p in self.model.parameters()):,}")
+        print(f"Model parameters: {sum(p.numel() for p in self.model.parameters()):,}")
         
         # Loss function
         class EnhancedLoss(nn.Module):
@@ -293,7 +294,7 @@ class ModelTrainer:
         optimizer = optim.AdamW(self.model.parameters(), lr=lr, weight_decay=5e-4, betas=(0.9, 0.999))
         scheduler = optim.lr_scheduler.CosineAnnealingWarmRestarts(optimizer, T_0=20, T_mult=2, eta_min=1e-6)
         
-        print("🚀 Training enhanced model...")
+        print("Training enhanced model...")
         best_val_acc = 0.0
         patience = 25
         patience_counter = 0
@@ -350,7 +351,7 @@ class ModelTrainer:
                 patience_counter += 1
             
             if patience_counter >= patience:
-                print(f"✅ Early stopping at epoch {epoch} (Best Val Acc: {best_val_acc:.4f})")
+                print(f"Early stopping at epoch {epoch} (Best Val Acc: {best_val_acc:.4f})")
                 break
             
             if epoch % 15 == 0 or epoch < 5:
@@ -360,14 +361,14 @@ class ModelTrainer:
         self.load_model()
         
         # Final evaluation
-        print("\n📊 Final Model Evaluation:")
+        print("\nFinal Model Evaluation:")
         print("=" * 60)
         self.evaluate(X_test_tensor, y_test)
         
         # Cross-validation
-        print("\n🔄 Performing 5-fold cross-validation...")
+        print("\nPerforming 5-fold cross-validation...")
         cv_scores = self.cross_validate(X, y, n_splits=5)
-        print(f"📈 CV Accuracy: {cv_scores['mean']:.4f} (+/- {cv_scores['std']:.4f})")
+        print(f"CV Accuracy: {cv_scores['mean']:.4f} (+/- {cv_scores['std']:.4f})")
         
         # Save processor
         joblib.dump(self.processor, 'data_processor.pkl')
@@ -423,7 +424,7 @@ class ModelTrainer:
         f1 = f1_score(y_test, predictions, zero_division=0)
         roc_auc = roc_auc_score(y_test, predictions)
         
-        print(f"🎯 Model Performance:")
+        print(f"Model Performance:")
         print(f"   Accuracy:  {accuracy:.3f}")
         print(f"   Precision: {precision:.3f}")
         print(f"   Recall:    {recall:.3f}")
@@ -431,7 +432,7 @@ class ModelTrainer:
         print(f"   ROC-AUC:   {roc_auc:.3f}")
         
         cm = confusion_matrix(y_test, predictions)
-        print(f"\n📈 Confusion Matrix:")
+        print(f"\nConfusion Matrix:")
         print(f"   True Neg: {cm[0,0]} | False Pos: {cm[0,1]}")
         print(f"   False Neg: {cm[1,0]} | True Pos: {cm[1,1]}")
         
@@ -459,14 +460,24 @@ class ModelTrainer:
 
 if __name__ == "__main__":
     print("=" * 60)
-    print("❤️  HEART DISEASE PREDICTION MODEL TRAINER")
+    print("HEART DISEASE PREDICTION MODEL TRAINER")
     print("=" * 60)
     
+    # Parse command line arguments
+    data_file = 'heart.csv'
+    if len(sys.argv) > 1:
+        if '--data' in sys.argv:
+            data_idx = sys.argv.index('--data') + 1
+            if data_idx < len(sys.argv):
+                data_file = sys.argv[data_idx]
+    
+    print(f"Training with dataset: {data_file}")
+    
     trainer = ModelTrainer()
-    model = trainer.train(epochs=250, batch_size=16, lr=0.0015)
+    model = trainer.train(epochs=250, batch_size=16, lr=0.0015, data_file=data_file)
     
     print("\n" + "=" * 60)
-    print("✅ Training completed successfully!")
+    print("Training completed successfully!")
     print("Model saved as: heart_disease_model.pth")
     print("Processor saved as: data_processor.pkl")
     print("=" * 60)

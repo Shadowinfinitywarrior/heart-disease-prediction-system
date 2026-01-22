@@ -1,0 +1,17 @@
+{
+  "novel_risk_factors": [
+    "protein markers of cardiometabolic risk in children and adolescents with obesity",
+    "panel discovery and assessment",
+    "predicts long",
+    "metabolomics disentangles t2dm"
+  ],
+  "biomarker_weights": {
+    "depression and lung decline in chronic obstructive pulmonary disease": 1.0,
+    "heart rate variability": 1.0,
+    "cellular senescence and demethylation in acute myocardial infarction": 1.0,
+    "identification and validation of biomarkers": 1.0
+  },
+  "feature_interactions": [],
+  "population_adjustments": {},
+  "confidence_scores": {}
+}

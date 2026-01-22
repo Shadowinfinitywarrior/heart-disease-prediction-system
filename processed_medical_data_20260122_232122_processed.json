@@ -1,0 +1,24 @@
+{
+  "research_papers": {
+    "risk_factors": {},
+    "biomarkers": {},
+    "prediction_methods": {},
+    "performance_metrics": {},
+    "feature_importance": {},
+    "trends": {}
+  },
+  "clinical_trials": {
+    "interventions": {},
+    "outcomes": {},
+    "eligibility_criteria": {},
+    "phase_distribution": {},
+    "success_rates": {}
+  },
+  "medical_statistics": {
+    "prevalence_rates": {},
+    "mortality_rates": {},
+    "risk_statistics": {},
+    "demographic_data": {},
+    "trends": {}
+  }
+}

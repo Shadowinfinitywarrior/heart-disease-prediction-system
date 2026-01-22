@@ -1,0 +1,2657 @@
+{
+  "research_papers": [
+    {
+      "pubmed_id": "41535681",
+      "title": "Identification of modifiable plasma protein markers of cardiometabolic risk in children and adolescents with obesity.",
+      "authors": [
+        {
+          "name": "Stinson SE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thielemann R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stankevic E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lund MAV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Holm LA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fonvig CE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Juel HB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Borisevich D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thiele M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Krag A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ängquist L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sørensen TIA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pedersen O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Christiansen M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Holm JC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hansen T",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Nature communications",
+      "publication_date": "2026 Jan 14",
+      "abstract": "",
+      "doi": "doi: 10.1038/s41467-026-68415-2",
+      "keywords": [],
+      "scraped_date": "2026-01-22T23:32:03.504251"
+    },
+    {
+      "pubmed_id": "41533691",
+      "title": "Peak strain dispersion as a nonlinear mediator in HFpEF: Unraveling subtype-specific pathways via SHAP-augmented ensemble modeling.",
+      "authors": [
+        {
+          "name": "Lin M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gong K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun P",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "PLoS computational biology",
+      "publication_date": "2026 Jan 14",
+      "abstract": "",
+      "doi": "doi: 10.1371/journal.pcbi.1013891",
+      "keywords": [],
+      "scraped_date": "2026-01-22T23:32:04.803215"
+    },
+    {
+      "pubmed_id": "41526226",
+      "title": "Exploratory Analysis for Development Predictive Models of Immune Checkpoint Inhibitor-Induced Myocarditis Using a Nationwide Claims Database.",
+      "authors": [
+        {
+          "name": "Yamamoto R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hamano H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nakagomi K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Uchiyama M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Michihara A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ozaki AF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Patel PM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tanioka M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zamami Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Uehara T",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Biological & pharmaceutical bulletin",
+      "publication_date": "2026",
+      "abstract": "",
+      "doi": "doi: 10.1248/bpb.b25-00453",
+      "keywords": [],
+      "scraped_date": "2026-01-22T23:32:06.110773"
+    },
+    {
+      "pubmed_id": "41523655",
+      "title": "Omics BioAnalytics: an RShiny application for multimodal biomarker panel discovery and assessment.",
+      "authors": [
+        {
+          "name": "Dyce J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rieskamp L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tebbutt SJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McManus BM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Singh A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Bioinformatics advances",
+      "publication_date": "2026",
+      "abstract": "",
+      "doi": "doi: 10.1093/bioadv/vbaf307",
+      "keywords": [],
+      "scraped_date": "2026-01-22T23:32:07.702140"
+    },
+    {
+      "pubmed_id": "41521699",
+      "title": "Genetic Information Enhances a Novel Non-Invasive Steatosis Index and Outperforms Existing Steatosis Indices.",
+      "authors": [
+        {
+          "name": "Alyousifi Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Raut C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen VL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Oliveri A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Speliotes EK",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+      "publication_date": "2026 Feb",
+      "abstract": "",
+      "doi": "doi: 10.1111/liv.70410",
+      "keywords": [],
+      "scraped_date": "2026-01-22T23:32:09.253673"
+    },
+    {
+      "pubmed_id": "41511345",
+      "title": "T-Cell-Driven Immunopathology and Fibrotic Remodeling in Hypertrophic Cardiomyopathy: A Translational Scoping Review.",
+      "authors": [
+        {
+          "name": "Menezes Junior ADS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "de Oliveira HL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "de Lima KBA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Botelho SM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wastowski IJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Cells",
+      "publication_date": "2025 Dec 29",
+      "abstract": "",
+      "doi": "doi: 10.3390/cells15010061",
+      "keywords": [],
+      "scraped_date": "2026-01-22T23:32:10.587935"
+    },
+    {
+      "pubmed_id": "41500559",
+      "title": "Diagnostic performance of the Myocardial-Ischaemic-Injury index machine-learning algorithm in patients with an initial indeterminate troponin.",
+      "authors": [
+        {
+          "name": "Snavely AC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hunter CJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jackson L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stopyra JP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ashburn NP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Supples MW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Christenson R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miller CD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mahler SA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Open heart",
+      "publication_date": "2026 Jan 6",
+      "abstract": "",
+      "doi": "doi: 10.1136/openhrt-2025-003767",
+      "keywords": [
+        "myocardial"
+      ],
+      "scraped_date": "2026-01-22T23:32:11.889858"
+    },
+    {
+      "pubmed_id": "41496129",
+      "title": "Platelet-albumin ratio predicts 28-day mortality risk in ICU heart failure patients: A retrospective cohort study.",
+      "authors": [
+        {
+          "name": "Li C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ma M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ma H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Medicine",
+      "publication_date": "2026 Jan 2",
+      "abstract": "",
+      "doi": "doi: 10.1097/MD.0000000000046885",
+      "keywords": [],
+      "scraped_date": "2026-01-22T23:32:13.354963"
+    },
+    {
+      "pubmed_id": "41485457",
+      "title": "Automated diagnosis of chronic obstructive pulmonary disease using deep learning applied to electrocardiograms.",
+      "authors": [
+        {
+          "name": "Vaid A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sharma J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jiang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lampert J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sawant A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Argulian E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lerakis S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tandon P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kovatch P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Powell C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cairns CB",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nadkarni GN",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kraft M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "EBioMedicine",
+      "publication_date": "2026 Jan",
+      "abstract": "",
+      "doi": "doi: 10.1016/j.ebiom.2025.106066",
+      "keywords": [],
+      "scraped_date": "2026-01-22T23:32:14.683230"
+    },
+    {
+      "pubmed_id": "41479992",
+      "title": "Reimagining risk stratification: Dipeptidyl peptidase 3 in the new era of cardiovascular biomarkers.",
+      "authors": [
+        {
+          "name": "Ramoni D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liberale L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Carbone F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Montecucco F",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "World journal of cardiology",
+      "publication_date": "2025 Dec 26",
+      "abstract": "",
+      "doi": "doi: 10.4330/wjc.v17.i12.113443",
+      "keywords": [
+        "cardiovascular",
+        "biomarkers"
+      ],
+      "scraped_date": "2026-01-22T23:32:16.213160"
+    },
+    {
+      "pubmed_id": "41479105",
+      "title": "Heart Rate Variability in the Detection of Cognitive Fatigue Through Transfer Learning.",
+      "authors": [
+        {
+          "name": "Tsakmaki PV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tasoulis SK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Georgakopoulos SV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Plagianakos VP",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Advances in experimental medicine and biology",
+      "publication_date": "2026",
+      "abstract": "",
+      "doi": "doi: 10.1007/978-3-032-03402-1_43",
+      "keywords": [],
+      "scraped_date": "2026-01-22T23:32:17.519596"
+    },
+    {
+      "pubmed_id": "41477636",
+      "title": "Identification and validation of biomarkers related to nicotinamide metabolic pathway activity in heart failure.",
+      "authors": [
+        {
+          "name": "Du J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bi S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cheng L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yao Z",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Frontiers in genetics",
+      "publication_date": "2025",
+      "abstract": "",
+      "doi": "doi: 10.3389/fgene.2025.1673314",
+      "keywords": [
+        "biomarkers"
+      ],
+      "scraped_date": "2026-01-22T23:32:18.886195"
+    },
+    {
+      "pubmed_id": "41475067",
+      "title": "Shared inflammation in takotsubo syndrome and sepsis: Lipocalin-2 mediates neutrophil infiltration and cardiac damage.",
+      "authors": [
+        {
+          "name": "Huang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zeng P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tang W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cheng F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chong T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Cytokine",
+      "publication_date": "2026 Feb",
+      "abstract": "",
+      "doi": "doi: 10.1016/j.cyto.2025.157102",
+      "keywords": [],
+      "scraped_date": "2026-01-22T23:32:20.229188"
+    },
+    {
+      "pubmed_id": "41467374",
+      "title": "Clinically Applicable Machine Learning Approach to Predict Intracerebral Hematoma Expansion.",
+      "authors": [
+        {
+          "name": "Watanabe S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ren N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Imaoka Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Morita K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kobashi S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mukae N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Arimura K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nishimura K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Iihara K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "J‐ASPECT study collaborators",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Journal of the American Heart Association",
+      "publication_date": "2026 Jan 6",
+      "abstract": "",
+      "doi": "doi: 10.1161/JAHA.125.042387",
+      "keywords": [],
+      "scraped_date": "2026-01-22T23:32:21.539451"
+    },
+    {
+      "pubmed_id": "41466972",
+      "title": "Research Hotspots and Prospects of Artificial Intelligence in Cardiovascular Disease: A Bibliometric Analysis.",
+      "authors": [
+        {
+          "name": "He S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shen Z",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Journal of multidisciplinary healthcare",
+      "publication_date": "2025",
+      "abstract": "",
+      "doi": "doi: 10.2147/JMDH.S553225",
+      "keywords": [
+        "cardiovascular"
+      ],
+      "scraped_date": "2026-01-22T23:32:22.846319"
+    },
+    {
+      "pubmed_id": "41459671",
+      "title": "Integrating Single-Cell Sequencing, Machine Learning, and Molecular Docking to Elucidate the Molecular Network Linking Myocardial Infarction and DEHP Exposure.",
+      "authors": [
+        {
+          "name": "Wang Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qi S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Journal of biochemical and molecular toxicology",
+      "publication_date": "2026 Jan",
+      "abstract": "",
+      "doi": "doi: 10.1002/jbt.70663",
+      "keywords": [
+        "myocardial",
+        "infarction"
+      ],
+      "scraped_date": "2026-01-22T23:32:24.259586"
+    },
+    {
+      "pubmed_id": "41458557",
+      "title": "Biomarker-based depression risk prediction in chronic heart failure patients: an interpretable machine learning approach.",
+      "authors": [
+        {
+          "name": "Tao Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yao C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qiu H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Frontiers in endocrinology",
+      "publication_date": "2025",
+      "abstract": "",
+      "doi": "doi: 10.3389/fendo.2025.1737713",
+      "keywords": [],
+      "scraped_date": "2026-01-22T23:32:25.683433"
+    },
+    {
+      "pubmed_id": "41451621",
+      "title": "Advancing coronary artery disease risk stratification: integrating hyperspectral imaging with machine learning for precision cardiology.",
+      "authors": [
+        {
+          "name": "Liu X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sang W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jiang H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu L",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Future cardiology",
+      "publication_date": "2025 Dec 26",
+      "abstract": "",
+      "doi": "doi: 10.1080/14796678.2025.2608553",
+      "keywords": [
+        "coronary"
+      ],
+      "scraped_date": "2026-01-22T23:32:26.983138"
+    },
+    {
+      "pubmed_id": "41443140",
+      "title": "Mitochondrial energy metabolism-associated Predictive model constriction for coronary artery disease(CAD) of acute myocardial infarction(AMI) patients via integrative bioinformatic analysis.",
+      "authors": [
+        {
+          "name": "Zhong L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Computational biology and chemistry",
+      "publication_date": "2026 Apr",
+      "abstract": "",
+      "doi": "doi: 10.1016/j.compbiolchem.2025.108835",
+      "keywords": [
+        "coronary",
+        "myocardial",
+        "infarction"
+      ],
+      "scraped_date": "2026-01-22T23:32:28.313217"
+    },
+    {
+      "pubmed_id": "41429986",
+      "title": "Prediction of postoperative delirium after cardiac surgery by the interplay between preoperative plasma p-tau181 and IL-6 and heart-brain axis related factors: results from the prospective observational study FINDERI.",
+      "authors": [
+        {
+          "name": "Hansen N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Knopp CM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Esselmann H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Celano CM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Derad C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Asendorf T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chebbok M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Heinemann S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Malik I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Morgado B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Becker MM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Günther I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Krasiuk I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Packroß K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rediske AI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Süttmann NP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Titsch T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kutschka I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Baraki H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wiltfang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "von Arnim CAF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sadlonova M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "FINDERI investigators",
+          "authtype": "CollectiveName",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Molecular psychiatry",
+      "publication_date": "2025 Dec 22",
+      "abstract": "",
+      "doi": "doi: 10.1038/s41380-025-03412-3",
+      "keywords": [],
+      "scraped_date": "2026-01-22T23:32:29.614347"
+    },
+    {
+      "pubmed_id": "41404738",
+      "title": "Identification of Biomarkers for Right Ventricular Dysfunction in Idiopathic Dilated Cardiomyopathy Via Urinary Proteomics and Machine Learning.",
+      "authors": [
+        {
+          "name": "Wu A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guo Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mei K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qin X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Qin Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guo X",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Journal of the American Heart Association",
+      "publication_date": "2026 Jan 6",
+      "abstract": "",
+      "doi": "doi: 10.1161/JAHA.125.044254",
+      "keywords": [
+        "biomarkers"
+      ],
+      "scraped_date": "2026-01-22T23:32:30.908939"
+    },
+    {
+      "pubmed_id": "41394415",
+      "title": "Application of an interpretable machine learning model based on optimal feature selection for predicting triple-vessel coronary disease: a multicenter retrospective study.",
+      "authors": [
+        {
+          "name": "Hou L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "He K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Su K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang C",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "PeerJ",
+      "publication_date": "2025",
+      "abstract": "",
+      "doi": "doi: 10.7717/peerj.20423",
+      "keywords": [
+        "coronary"
+      ],
+      "scraped_date": "2026-01-22T23:32:32.212334"
+    },
+    {
+      "pubmed_id": "41375721",
+      "title": "Applications of Artificial Intelligence as a Prognostic Tool in the Management of Acute Aortic Syndrome and Aneurysm: A Comprehensive Review.",
+      "authors": [
+        {
+          "name": "Ayhan C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mekhaeil M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Channawi R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ozcan AE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Akargul E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Deger A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cayan I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abdalla A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chan C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mahon R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ayhan D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wijns W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sultan S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Soliman O",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Journal of clinical medicine",
+      "publication_date": "2025 Nov 27",
+      "abstract": "",
+      "doi": "doi: 10.3390/jcm14238420",
+      "keywords": [],
+      "scraped_date": "2026-01-22T23:32:33.513419"
+    },
+    {
+      "pubmed_id": "41362380",
+      "title": "Exploring the interaction between klotho and TyG index in cardiovascular risk stratification: A metabolic-inflammatory network analysis with mediation and machine learning insights.",
+      "authors": [
+        {
+          "name": "Min J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "American heart journal plus : cardiology research and practice",
+      "publication_date": "2026 Jan",
+      "abstract": "",
+      "doi": "doi: 10.1016/j.ahjo.2025.100681",
+      "keywords": [
+        "cardiovascular"
+      ],
+      "scraped_date": "2026-01-22T23:32:34.854370"
+    },
+    {
+      "pubmed_id": "41334441",
+      "title": "Coronary heart disease and type 2 diabetes metabolomic signatures in the Middle East.",
+      "authors": [
+        {
+          "name": "Elshrif M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Isufaj K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "El-Menyar A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ullah E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Beotra A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Al-Maadheed M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mohamed-Ali V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Saad M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Al Suwaidi J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Frontiers in endocrinology",
+      "publication_date": "2025",
+      "abstract": "",
+      "doi": "doi: 10.3389/fendo.2025.1531525",
+      "keywords": [
+        "heart disease",
+        "coronary"
+      ],
+      "scraped_date": "2026-01-22T23:32:36.267904"
+    },
+    {
+      "pubmed_id": "41328910",
+      "title": "Joint Associations of Type D Personality and Allostatic Load with Coronary Artery Disease in Type 2 Diabetes: Evaluating the Role of Allostatic Load.",
+      "authors": [
+        {
+          "name": "Liu L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Han T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ye Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lin P",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Biopsychosocial science and medicine",
+      "publication_date": "2025 Dec 2",
+      "abstract": "",
+      "doi": "doi: 10.1097/PSY.0000000000001456",
+      "keywords": [
+        "coronary"
+      ],
+      "scraped_date": "2026-01-22T23:32:37.626716"
+    },
+    {
+      "pubmed_id": "41327344",
+      "title": "The atherogenic index of plasma predicts long-term outcomes in patients with severe coronary artery calcification undergoing rotational atherectomy: a machine learning-based cohort study.",
+      "authors": [
+        {
+          "name": "Hu B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ren Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hu H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ma L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Cardiovascular diabetology",
+      "publication_date": "2025 Dec 1",
+      "abstract": "",
+      "doi": "doi: 10.1186/s12933-025-03027-6",
+      "keywords": [
+        "coronary"
+      ],
+      "scraped_date": "2026-01-22T23:32:38.983872"
+    },
+    {
+      "pubmed_id": "41324535",
+      "title": "Computational fluid dynamics in aortic arch pathologies: current applications, challenges, and future perspectives.",
+      "authors": [
+        {
+          "name": "Sanches AF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wan Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hasemaki N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Öz T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Konstantinou N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Stana J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tsilimparis N",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "The Journal of cardiovascular surgery",
+      "publication_date": "2025 Dec",
+      "abstract": "",
+      "doi": "doi: 10.23736/S0021-9509.25.13494-0",
+      "keywords": [],
+      "scraped_date": "2026-01-22T23:32:40.292702"
+    },
+    {
+      "pubmed_id": "41318013",
+      "title": "Emerging risk factors for stroke and bleeding in patients with atrial fibrillation and heart failure-a narrative review.",
+      "authors": [
+        {
+          "name": "Zabierowski J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hudzik B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nowak J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gąsior M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Current problems in cardiology",
+      "publication_date": "2025 Nov 27",
+      "abstract": "",
+      "doi": "doi: 10.1016/j.cpcardiol.2025.103231",
+      "keywords": [
+        "risk factors"
+      ],
+      "scraped_date": "2026-01-22T23:32:41.613524"
+    },
+    {
+      "pubmed_id": "41315462",
+      "title": "Context matters in machine learning based disease prediction with insights from diverse clinical and symptom data.",
+      "authors": [
+        {
+          "name": "Mohamed A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Abdelrehim M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Al-Barazie R",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Scientific reports",
+      "publication_date": "2025 Nov 28",
+      "abstract": "",
+      "doi": "doi: 10.1038/s41598-025-26855-8",
+      "keywords": [],
+      "scraped_date": "2026-01-22T23:32:42.966311"
+    },
+    {
+      "pubmed_id": "41314962",
+      "title": "A novel deep learning system for STEMI prognostic prediction from multi-sequence cardiac magnetic resonance.",
+      "authors": [
+        {
+          "name": "Chen Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jiang M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xia C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ke P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ge H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chai Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tao Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lyu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shi A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xin H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhong Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yan F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Quan W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tian Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tu S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ji H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sheng B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pu J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Science bulletin",
+      "publication_date": "2025 Dec 30",
+      "abstract": "",
+      "doi": "doi: 10.1016/j.scib.2025.11.027",
+      "keywords": [],
+      "scraped_date": "2026-01-22T23:32:44.536197"
+    },
+    {
+      "pubmed_id": "41314690",
+      "title": "Cardiac magnetic resonance imaging-derived atrial fibrosis in patients with pre-atrial fibrillation.",
+      "authors": [
+        {
+          "name": "Wahab A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nadarajah R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tomoaia R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Javed W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Reynolds C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bennet S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bhatty A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lip GYH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Camm J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Plein S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Swoboda P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gale CP",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Open heart",
+      "publication_date": "2025 Nov 27",
+      "abstract": "",
+      "doi": "doi: 10.1136/openhrt-2025-003747",
+      "keywords": [],
+      "scraped_date": "2026-01-22T23:32:45.895081"
+    },
+    {
+      "pubmed_id": "41314689",
+      "title": "Development and validation of a 10-year predictive model for cardiovascular and metabolic disease risk: insights from a large-scale health examination cohort.",
+      "authors": [
+        {
+          "name": "Wang D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tan JS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ma Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Han Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gan W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cao J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Open heart",
+      "publication_date": "2025 Nov 28",
+      "abstract": "",
+      "doi": "doi: 10.1136/openhrt-2025-003444",
+      "keywords": [
+        "cardiovascular"
+      ],
+      "scraped_date": "2026-01-22T23:32:47.214192"
+    },
+    {
+      "pubmed_id": "41314668",
+      "title": "Identification of individuals at high risk of developing rheumatoid arthritis: a balanced random forest model in a cohort of 1544 first-degree relatives.",
+      "authors": [
+        {
+          "name": "Aymon R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lamacchia C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gilbert BTP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Grundhuber M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gehring I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Swiniarski S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Studer O",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Salis Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Guemara R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Spoerl D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dudler J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Möller B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dan D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brulhart L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Von Mühlenen I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kyburz D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rubbert-Roth A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ciurea A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mueller R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Courvoisier DS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Finckh A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "RMD open",
+      "publication_date": "2025 Nov 27",
+      "abstract": "",
+      "doi": "doi: 10.1136/rmdopen-2025-005773",
+      "keywords": [],
+      "scraped_date": "2026-01-22T23:32:48.583907"
+    },
+    {
+      "pubmed_id": "41294028",
+      "title": "Unsupervised k-means clustering identified routine clinical biomarkers for classifying chronic kidney disease in patients with chronic heart failure.",
+      "authors": [
+        {
+          "name": "Gong L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lin X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen W",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Laboratory medicine",
+      "publication_date": "2025 Nov 26",
+      "abstract": "",
+      "doi": "pii: lmaf080. doi: 10.1093/labmed/lmaf080",
+      "keywords": [
+        "biomarkers"
+      ],
+      "scraped_date": "2026-01-22T23:32:50.216788"
+    },
+    {
+      "pubmed_id": "41281538",
+      "title": "Heart rate variability associated with depression and lung decline in chronic obstructive pulmonary disease: Mechanisms and interventions.",
+      "authors": [
+        {
+          "name": "Liu MH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu LL",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "World journal of psychiatry",
+      "publication_date": "2025 Nov 19",
+      "abstract": "",
+      "doi": "doi: 10.5498/wjp.v15.i11.108591",
+      "keywords": [],
+      "scraped_date": "2026-01-22T23:32:51.672905"
+    },
+    {
+      "pubmed_id": "41274943",
+      "title": "A dynamic weighted ensemble learning framework for cardiovascular risk prediction in type 2 diabetes: a comparative study with SHAP-based interpretability.",
+      "authors": [
+        {
+          "name": "Yuan C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fan Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sun X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tian Z",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Scientific reports",
+      "publication_date": "2025 Nov 22",
+      "abstract": "",
+      "doi": "doi: 10.1038/s41598-025-28786-w",
+      "keywords": [
+        "cardiovascular"
+      ],
+      "scraped_date": "2026-01-22T23:32:53.066854"
+    },
+    {
+      "pubmed_id": "41271965",
+      "title": "Identification and validation of biomarkers associated with cellular senescence and demethylation in acute myocardial infarction.",
+      "authors": [
+        {
+          "name": "Su W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huang H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ruan Q",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dan J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhao Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Huo Q",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Scientific reports",
+      "publication_date": "2025 Nov 21",
+      "abstract": "",
+      "doi": "doi: 10.1038/s41598-025-25391-9",
+      "keywords": [
+        "myocardial",
+        "infarction",
+        "biomarkers"
+      ],
+      "scraped_date": "2026-01-22T23:32:55.185372"
+    },
+    {
+      "pubmed_id": "41271880",
+      "title": "Rapid screening for acute rheumatic fever using machine learning analysis of host tissue reactive antibodies.",
+      "authors": [
+        {
+          "name": "Vo B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rafeek RAM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Surve NZ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Karmarkar MG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Reeves B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rishi G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pandey M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Good MF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ketheesan N",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Scientific reports",
+      "publication_date": "2025 Nov 21",
+      "abstract": "",
+      "doi": "doi: 10.1038/s41598-025-25171-5",
+      "keywords": [],
+      "scraped_date": "2026-01-22T23:32:56.825049"
+    },
+    {
+      "pubmed_id": "41266526",
+      "title": "Identification of IL1R1 as a potential key PANoptosis-related gene in myocardial ischemia-reperfusion injury using machine learning.",
+      "authors": [
+        {
+          "name": "Peng S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hu B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Scientific reports",
+      "publication_date": "2025 Nov 20",
+      "abstract": "",
+      "doi": "doi: 10.1038/s41598-025-24818-7",
+      "keywords": [
+        "myocardial"
+      ],
+      "scraped_date": "2026-01-22T23:32:58.448236"
+    },
+    {
+      "pubmed_id": "41261400",
+      "title": "Plasma metabolomics disentangles T2DM- and CAD-specific dysmetabolism and identifies potential biomarkers for CAD risk escalation in diabetic patients.",
+      "authors": [
+        {
+          "name": "Hu T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ding X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Han F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "An Z",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Cardiovascular diabetology",
+      "publication_date": "2025 Nov 19",
+      "abstract": "",
+      "doi": "doi: 10.1186/s12933-025-02981-5",
+      "keywords": [
+        "biomarkers"
+      ],
+      "scraped_date": "2026-01-22T23:33:08.667900"
+    },
+    {
+      "pubmed_id": "41254733",
+      "title": "Relationship between C-reactive protein triglyceride glucose index and cardiovascular disease risk: a cross-sectional analysis with machine learning.",
+      "authors": [
+        {
+          "name": "Zheng R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cao X",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "BMC medical informatics and decision making",
+      "publication_date": "2025 Nov 18",
+      "abstract": "",
+      "doi": "doi: 10.1186/s12911-025-03265-4",
+      "keywords": [
+        "cardiovascular"
+      ],
+      "scraped_date": "2026-01-22T23:33:09.967554"
+    },
+    {
+      "pubmed_id": "41247866",
+      "title": "C-reactive protein-triglyceride glucose index in predicting three-vessel coronary artery disease risk: a retrospective study using machine learning approaches.",
+      "authors": [
+        {
+          "name": "Hou L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liu Q",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Annals of medicine",
+      "publication_date": "2025 Dec",
+      "abstract": "",
+      "doi": "doi: 10.1080/07853890.2025.2584308",
+      "keywords": [
+        "coronary"
+      ],
+      "scraped_date": "2026-01-22T23:33:11.271640"
+    },
+    {
+      "pubmed_id": "41239205",
+      "title": "Relative hyperglycemia and new-onset atrial fibrillation after coronary artery bypass grafting: a focus on stress hyperglycemia ratio.",
+      "authors": [
+        {
+          "name": "Cao H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gui L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wei J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zheng M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cheng M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ning C",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "BMC cardiovascular disorders",
+      "publication_date": "2025 Nov 14",
+      "abstract": "",
+      "doi": "doi: 10.1186/s12872-025-05231-4",
+      "keywords": [
+        "coronary"
+      ],
+      "scraped_date": "2026-01-22T23:33:12.597554"
+    },
+    {
+      "pubmed_id": "41238596",
+      "title": "HearteXplain: explainable prediction of acute heart failure and identification of hematologic biomarkers using EBMs and Morris sensitivity analysis.",
+      "authors": [
+        {
+          "name": "Yagin FH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Görmez Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Algarni A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Al-Hashem F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dutta AK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Aghaei M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Scientific reports",
+      "publication_date": "2025 Nov 14",
+      "abstract": "",
+      "doi": "doi: 10.1038/s41598-025-23668-7",
+      "keywords": [
+        "biomarkers"
+      ],
+      "scraped_date": "2026-01-22T23:33:13.966705"
+    },
+    {
+      "pubmed_id": "41228920",
+      "title": "A Systematic Review of Wearable Sensors in Rett Syndrome-What Physiological Markers Are Informative for Monitoring Disease States?",
+      "authors": [
+        {
+          "name": "Singh J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wilkins G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Manginas A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chishti S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fiori F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sharma GD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shetty J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Santosh P",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Sensors (Basel, Switzerland)",
+      "publication_date": "2025 Nov 2",
+      "abstract": "",
+      "doi": "doi: 10.3390/s25216697",
+      "keywords": [],
+      "scraped_date": "2026-01-22T23:33:15.264774"
+    },
+    {
+      "pubmed_id": "41204556",
+      "title": "Identification of mitochondria-related hub genes and immune associations in acute myocardial infarction: A bioinformatic analysis.",
+      "authors": [
+        {
+          "name": "Xu X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ji H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yin L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Han L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yin X",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Medicine",
+      "publication_date": "2025 Nov 7",
+      "abstract": "",
+      "doi": "doi: 10.1097/MD.0000000000045611",
+      "keywords": [
+        "myocardial",
+        "infarction"
+      ],
+      "scraped_date": "2026-01-22T23:33:16.563000"
+    },
+    {
+      "pubmed_id": "41204370",
+      "title": "Identification of potential blood biomarkers of coronary artery disease using a cuproptosis gene set.",
+      "authors": [
+        {
+          "name": "Li J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lei K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hu P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tang CE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Luo F",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "European journal of medical research",
+      "publication_date": "2025 Nov 7",
+      "abstract": "",
+      "doi": "doi: 10.1186/s40001-025-03276-x",
+      "keywords": [
+        "coronary",
+        "biomarkers"
+      ],
+      "scraped_date": "2026-01-22T23:33:17.859118"
+    },
+    {
+      "pubmed_id": "41194315",
+      "title": "Implications of inflammation and sex in lower extremity arterial disease.",
+      "authors": [
+        {
+          "name": "Schnidrig K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thakur M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tuleja A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bernhard SM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Noels H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kotelis D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schindewolf M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Döring Y",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "European journal of clinical investigation",
+      "publication_date": "2026 Jan",
+      "abstract": "",
+      "doi": "doi: 10.1111/eci.70144",
+      "keywords": [],
+      "scraped_date": "2026-01-22T23:33:19.157485"
+    },
+    {
+      "pubmed_id": "41194138",
+      "title": "Stress hyperglycemia ratio modulates the impact of organ dysfunction on mortality risk in critically ill patients with atrial fibrillation: insights from the MIMIC-IV database.",
+      "authors": [
+        {
+          "name": "Jin H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhu B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang J",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "journal": "Cardiovascular diabetology",
+      "publication_date": "2025 Nov 5",
+      "abstract": "",
+      "doi": "doi: 10.1186/s12933-025-02969-1",
+      "keywords": [],
+      "scraped_date": "2026-01-22T23:33:20.462311"
+    }
+  ],
+  "clinical_trials": [],
+  "medical_statistics": [
+    {
+      "source": "WHO",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)",
+      "title": "Cardiovascular Diseases Fact Sheet",
+      "scraped_date": "2026-01-22T23:33:29.038780",
+      "key_facts": []
+    }
+  ],
+  "risk_factors": [],
+  "biomarkers": []
+}
